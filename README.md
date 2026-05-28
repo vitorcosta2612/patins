@@ -10,7 +10,7 @@ O projeto é uma landpage de um aplicativo fictício de Patins
 
 Acesse o projeto online:
 
-[https://vitorcosta2612.github.io/zingen/](https://vitorcosta2612.github.io/zingen/)
+[Projeto](https://vitorcosta2612.github.io/patins/)
 
 ## Tecnologias utilizadas
 
